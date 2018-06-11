@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Badgerland HDI
 
-You can use the [editor on GitHub](https://github.com/davidkassa/badgerlandhdi.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The previous owners of this domain let it expire. Having a vested interest in the Madison community, I've purchased it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you are the owner, please reach out and I'm happy to return the domain.
 
-### Markdown
+If you're just interested in learning more, sign-up on this mailing list and maybe we can get things going again. If you're interested in leading, be sure to mention it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Mailing List](https://goo.gl/forms/y57a8CEPwhpBAsQ92)
 
-```markdown
-Syntax highlighted code block
+## HDI Resources
 
-# Header 1
-## Header 2
-### Header 3
+### Official
 
-- Bulleted
-- List
+[HDI Website](https://www.thinkhdi.com/)
 
-1. Numbered
-2. List
+[Local Chapters Directory](https://www.thinkhdi.com/events/Local-Chapters/directory)
 
-**Bold** and _Italic_ and `Code` text
+### Local
+[Brew City HDI](http://www.brewcityhdi.com/)
 
-[Link](url) and ![Image](src)
-```
+[Titletown HDI](http://www.titletownhdi.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidkassa/badgerlandhdi.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
