@@ -13,11 +13,9 @@ If you're just interested in learning more, sign-up on this mailing list and may
 ### Official
 
 [HDI Website](https://www.thinkhdi.com/)
-
 [Local Chapters Directory](https://www.thinkhdi.com/events/Local-Chapters/directory)
 
 ### Local
 [Brew City HDI](http://www.brewcityhdi.com/)
-
 [Titletown HDI](http://www.titletownhdi.com)
 
